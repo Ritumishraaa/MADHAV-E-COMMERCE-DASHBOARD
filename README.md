@@ -10,20 +10,20 @@ A dynamic, interactive Power BI dashboard built to analyze e-commerce data—foc
 
 ---
 
-## 2. 📝 Purpose
+## 2.  Purpose
 
 The Madhav E-Commerce Dashboard is a visually engaging and analytical Power BI report designed to help businesses monitor sales, profits, order volume, customer segments, and payment modes. The dashboard enables data-driven decision-making and performance optimization across regions, categories, and time periods.
 
 ---
 
-## 3. 🛠️ Tech Stack
+## 3.  Tech Stack
 
 The dashboard was built using the following tools and technologies:<br>
-• 📊 **Power BI Desktop** – Main data visualization platform used for report creation.<br>
-• 📂 **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-• 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-• 📝 **Data Modeling** – Relationships established among tables (orders, details) to enable cross-filtering and aggregation.<br>
-• 📁 **File Format** – `.pbix` for development and `.png` for dashboard previews.
+•  **Power BI Desktop** – Main data visualization platform used for report creation.<br>
+•  **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•  **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•  **Data Modeling** – Relationships established among tables (orders, details) to enable cross-filtering and aggregation.<br>
+•  **File Format** – `.pbix` for development and `.png` for dashboard previews.
 
 ---
 
@@ -38,7 +38,7 @@ The files were merged using common keys to create a unified model for sales and 
 
 ---
 
-## 5. ⭐ Features 
+## 5.  Features 
 
 ### • Business Problem
 
@@ -84,11 +84,11 @@ To provide a comprehensive analytics solution that:
 
 ### • Business Impact & Insights
 
-- 📈 **Sales Trends**: Strong Q1 and Q4 profits indicate seasonal buying behavior.  
-- 🌍 **Regional Performance**: Maharashtra and Madhya Pradesh lead sales, suggesting high potential markets.  
-- 👥 **Customer Value**: Repeat customers can be targeted for loyalty programs.  
-- 💳 **Payment Trends**: COD dominance may reflect delivery trust barriers—scope for digital campaigns.  
-- 🛍️ **Product Strategy**: Clothing sells more but isn’t the most profitable—rethink pricing or promotions.
+- **Sales Trends**: Strong Q1 and Q4 profits indicate seasonal buying behavior.  
+- **Regional Performance**: Maharashtra and Madhya Pradesh lead sales, suggesting high potential markets.  
+- **Customer Value**: Repeat customers can be targeted for loyalty programs.  
+- **Payment Trends**: COD dominance may reflect delivery trust barriers—scope for digital campaigns.  
+- **Product Strategy**: Clothing sells more but isn’t the most profitable—rethink pricing or promotions.
 
 ---
 
