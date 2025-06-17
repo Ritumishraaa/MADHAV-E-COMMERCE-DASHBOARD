@@ -1,16 +1,16 @@
 # MADHAV-E-COMMERCE-DASHBOARD
-# 🛒 Madhav E-Commerce Dashboard
+
 
 ---
 
-## 1. 📌 Project Title / Headline
 
-**📦 Madhav E-Commerce Dashboard**  
+
+ 
 A dynamic, interactive Power BI dashboard built to analyze e-commerce data—focusing on sales performance, customer behavior, regional trends, and product category insights.
 
 ---
 
-## 2. 📝 Short Description / Purpose
+## 2. 📝 Purpose
 
 The Madhav E-Commerce Dashboard is a visually engaging and analytical Power BI report designed to help businesses monitor sales, profits, order volume, customer segments, and payment modes. The dashboard enables data-driven decision-making and performance optimization across regions, categories, and time periods.
 
@@ -29,7 +29,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 ## 4. 📂 Data Source
 
-**Source:** Kaggle – [E-Commerce Dataset](https://www.kaggle.com)  
+**Source:** Kaggle  
 Data includes two CSV files:
 - `order.csv` – Contains order-level data (customer name, state, quantity, payment mode, etc.)  
 - `detail.csv` – Contains item-level details like category, sub-category, and profit  
@@ -94,7 +94,7 @@ To provide a comprehensive analytics solution that:
 
 ## 6. 📸 Screenshots / Demos
 
-![Dashboard Preview][(https://github.com/your-username/madhav-ecommerce-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)](https://github.com/Ritumishraaa/MADHAV-E-COMMERCE-DASHBOARD/blob/main/snapshot%20of%20the%20dashboard.png)
+![Dashboard Preview][[](https://github.com/Ritumishraaa/MADHAV-E-COMMERCE-DASHBOARD/blob/main/snapshot%20of%20the%20dashboard.png))
 
 ---
 
