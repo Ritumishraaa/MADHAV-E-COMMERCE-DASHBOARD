@@ -94,7 +94,7 @@ To provide a comprehensive analytics solution that:
 
 ## 6. 📸 Screenshots / Demos
 
-![Dashboard Preview][[](https://github.com/Ritumishraaa/MADHAV-E-COMMERCE-DASHBOARD/blob/main/snapshot%20of%20the%20dashboard.png))
+![Dashboard Preview](https://github.com/Ritumishraaa/MADHAV-E-COMMERCE-DASHBOARD/blob/main/snapshot%20of%20the%20dashboard.png)
 
 ---
 
